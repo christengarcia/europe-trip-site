@@ -1,0 +1,11 @@
+background {
+    color: pink;
+    font-family: 'Open Sans',
+    sans-serif;
+}
+
+/* Scale imaage to fit screen */
+img {
+    max-width: 100%;
+    height: auto;
+}
